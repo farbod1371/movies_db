@@ -1,4 +1,4 @@
-package com.example.elessar1992.movies_db;
+package com.example.elessar1992.movies_db.activities;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -12,7 +12,7 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 import com.example.elessar1992.movies_db.Model.Movie;
-import com.squareup.picasso.Picasso;
+import com.example.elessar1992.movies_db.R;
 
 import java.util.List;
 
